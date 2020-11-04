@@ -1,0 +1,7 @@
+{"step0":
+{"question":"Ваша квартира после ремонта?",
+  "answers":[
+    "Нет"
+  ]},
+  "step1":{"question":"Укажите площадь Вашей квартиры/дома?","answers":["Менее 50 кв м"]},"step2":{"question":"Как давно у Вас проводилась генеральная уборка??","answers":["Полгода назад"]},"step3":{"question":"Требуется ли мытье окон?","answers":["Нет"]},
+  "step4":{"name":"aaaa","phone":"0291884412","email":"mahanastya@mail.ru","call":"Whatsapp"}}
